@@ -3,11 +3,11 @@
 Este repositório contém o código do clone do frontend do Airbnb, ainda em desenvolvimento. O objetivo deste projeto é recriar a interface de usuário do Airbnb, utilizando React.js e Bootstrap, com o Vite como template para a criação rápida e otimizada do projeto.
 
 ## 🚀 Tecnologias Utilizadas
-### React.js: Biblioteca JavaScript para construção de interfaces de usuário.
+React.js: Biblioteca JavaScript para construção de interfaces de usuário.
 
-### Bootstrap: Framework CSS para estilização e layout responsivo.
+Bootstrap: Framework CSS para estilização e layout responsivo.
 
-### Vite: Ferramenta para criação de projetos React com alta performance e ambiente de desenvolvimento otimizado.
+Vite: Ferramenta para criação de projetos React com alta performance e ambiente de desenvolvimento otimizado.
 
 ## 🛠️ Como Executar o Projeto
 Pré-requisitos
@@ -31,10 +31,10 @@ http://localhost:3000
 ## 📅 Status do Projeto
 O projeto ainda está em desenvolvimento. Algumas funcionalidades que estão sendo implementadas incluem:
 
-### Página inicial: Layout responsivo com componentes React e Bootstrap.
+Página inicial: Layout responsivo com componentes React e Bootstrap.
 
-### Listagem de imóveis: Exibição de imóveis em cards, com informações dinâmicas.
+Listagem de imóveis: Exibição de imóveis em cards, com informações dinâmicas.
 
-### Página de detalhes: Tela de detalhes de um imóvel específico.
+Página de detalhes: Tela de detalhes de um imóvel específico.
 
-### Filtro de busca: Filtro avançado para busca de imóveis.
+Filtro de busca: Filtro avançado para busca de imóveis.
